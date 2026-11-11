@@ -1,0 +1,174 @@
+{
+ "vi": {
+  "status": 200,
+  "url": "https://ai4me.cfd/pdf/vi/",
+  "title": "BentoPDF - Công cụ PDF trực tuyến miễn phí | Bộ công cụ PDF ưu tiên quyền riêng tư",
+  "lang": "en",
+  "h1": "The PDF Toolkit\nbuilt for privacy.",
+  "console": [
+   "error: A bad HTTP response code (404) was received when fetching the script.",
+   "error: [SW] Service Worker registration failed: TypeError: Failed to register a ServiceWorker for scope ('https://ai4me.cfd/') with script ('https://ai4me.cfd/sw.js'): A bad HTTP response code (404) was received when fetching the script.",
+   "error: Failed to load resource: the server responded with a status of 404 ()"
+  ],
+  "fails": [
+   "404 https://ai4me.cfd/config.json"
+  ],
+  "n_links": 181,
+  "root_level_hrefs_dom": [
+   "/add-attachments.html",
+   "/add-blank-page.html",
+   "/add-page-labels.html",
+   "/add-stamps.html",
+   "/add-watermark.html",
+   "/adjust-colors.html",
+   "/alternate-merge.html",
+   "/background-color.html",
+   "/bates-numbering.html",
+   "/bmp-to-pdf.html",
+   "/bookmark.html",
+   "/cbz-to-pdf.html",
+   "/change-permissions.html",
+   "/combine-single-page.html",
+   "/compare-pdfs.html",
+   "/compress-pdf.html",
+   "/crop-pdf.html",
+   "/csv-to-pdf.html",
+   "/delete-pages.html",
+   "/deskew-pdf.html",
+   "/digital-sign-pdf.html",
+   "/divide-pages.html",
+   "/duplex-collate.html",
+   "/edit-attachments.html",
+   "/edit-metadata.html",
+   "/edit-pdf-text.html",
+   "/edit-pdf.html",
+   "/email-to-pdf.html",
+   "/epub-to-pdf.html",
+   "/excel-to-pdf.html",
+   "/extract-attachments.html",
+   "/extract-images.html",
+   "/extract-pages.html",
+   "/extract-tables.html",
+   "/fb2-to-pdf.html",
+   "/fix-page-size.html",
+   "/flatten-pdf.html",
+   "/font-to-outline.html",
+   "/form-creator.html",
+   "/form-filler.html"
+  ]
+ },
+ "switch_result_url": "https://ai4me.cfd/vi/pdf/",
+ "lang_links": {
+  "/pdf/": {
+   "status": 200,
+   "hreflang": [],
+   "canonical": [],
+   "root_level_links_dom": [],
+   "n_root_level_links_dom": 0
+  },
+  "/pdf/merge-pdf": {
+   "status": 200,
+   "hreflang": [],
+   "canonical": [],
+   "root_level_links_dom": [],
+   "n_root_level_links_dom": 0
+  },
+  "/pdf/vi/": {
+   "status": 200,
+   "hreflang": [
+    "ar https://www.bentopdf.com/ar",
+    "be https://www.bentopdf.com/be",
+    "ca https://www.bentopdf.com/ca",
+    "da https://www.bentopdf.com/da",
+    "de https://www.bentopdf.com/de",
+    "en https://www.bentopdf.com/",
+    "es https://www.bentopdf.com/es",
+    "fa https://www.bentopdf.com/fa",
+    "fr https://www.bentopdf.com/fr",
+    "id https://www.bentopdf.com/id",
+    "it https://www.bentopdf.com/it",
+    "ja https://www.bentopdf.com/ja",
+    "ko https://www.bentopdf.com/ko",
+    "nl https://www.bentopdf.com/nl",
+    "pl https://www.bentopdf.com/pl",
+    "pt https://www.bentopdf.com/pt",
+    "ru https://www.bentopdf.com/ru",
+    "sk https://www.bentopdf.com/sk",
+    "sv https://www.bentopdf.com/sv",
+    "tr https://www.bentopdf.com/tr",
+    "uk https://www.bentopdf.com/uk",
+    "vi https://www.bentopdf.com/vi",
+    "zh https://www.bentopdf.com/zh",
+    "zh-TW https://www.bentopdf.com/zh-TW",
+    "x-default https://www.bentopdf.com/"
+   ],
+   "canonical": [
+    "https://www.bentopdf.com/vi"
+   ],
+   "root_level_links_dom": [
+    "/add-attachments.html",
+    "/add-blank-page.html",
+    "/add-page-labels.html",
+    "/add-stamps.html",
+    "/add-watermark.html",
+    "/adjust-colors.html",
+    "/alternate-merge.html",
+    "/background-color.html",
+    "/bates-numbering.html",
+    "/bmp-to-pdf.html",
+    "/bookmark.html",
+    "/cbz-to-pdf.html",
+    "/change-permissions.html",
+    "/combine-single-page.html",
+    "/compare-pdfs.html"
+   ],
+   "n_root_level_links_dom": 130
+  },
+  "/pdf/vi/merge-pdf": {
+   "status": 200,
+   "hreflang": [
+    "ar https://www.bentopdf.com/ar/merge-pdf",
+    "be https://www.bentopdf.com/be/merge-pdf",
+    "ca https://www.bentopdf.com/ca/merge-pdf",
+    "da https://www.bentopdf.com/da/merge-pdf",
+    "de https://www.bentopdf.com/de/merge-pdf",
+    "en https://www.bentopdf.com/merge-pdf",
+    "es https://www.bentopdf.com/es/merge-pdf",
+    "fa https://www.bentopdf.com/fa/merge-pdf",
+    "fr https://www.bentopdf.com/fr/merge-pdf",
+    "id https://www.bentopdf.com/id/merge-pdf",
+    "it https://www.bentopdf.com/it/merge-pdf",
+    "ja https://www.bentopdf.com/ja/merge-pdf",
+    "ko https://www.bentopdf.com/ko/merge-pdf",
+    "nl https://www.bentopdf.com/nl/merge-pdf",
+    "pl https://www.bentopdf.com/pl/merge-pdf",
+    "pt https://www.bentopdf.com/pt/merge-pdf",
+    "ru https://www.bentopdf.com/ru/merge-pdf",
+    "sk https://www.bentopdf.com/sk/merge-pdf",
+    "sv https://www.bentopdf.com/sv/merge-pdf",
+    "tr https://www.bentopdf.com/tr/merge-pdf",
+    "uk https://www.bentopdf.com/uk/merge-pdf",
+    "vi https://www.bentopdf.com/vi/merge-pdf",
+    "zh https://www.bentopdf.com/zh/merge-pdf",
+    "zh-TW https://www.bentopdf.com/zh-TW/merge-pdf",
+    "x-default https://www.bentopdf.com/merge-pdf"
+   ],
+   "canonical": [
+    "https://www.bentopdf.com/vi/merge-pdf"
+   ],
+   "root_level_links_dom": [],
+   "n_root_level_links_dom": 0
+  }
+ },
+ "sw": {
+  "supported": true,
+  "regs": [],
+  "console": [
+   "error: Failed to load resource: the server responded with a status of 404 ()",
+   "pageerror: Cannot read properties of null (reading 'addEventListener')"
+  ],
+  "fails": [
+   "404 https://ai4me.cfd/vi/pdf/"
+  ]
+ }
+}

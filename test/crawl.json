@@ -1,0 +1,1020 @@
+{
+ "links": [
+  "https://ai4me.cfd/add-attachments.html",
+  "https://ai4me.cfd/add-blank-page.html",
+  "https://ai4me.cfd/add-page-labels.html",
+  "https://ai4me.cfd/add-stamps.html",
+  "https://ai4me.cfd/add-watermark.html",
+  "https://ai4me.cfd/adjust-colors.html",
+  "https://ai4me.cfd/alternate-merge.html",
+  "https://ai4me.cfd/background-color.html",
+  "https://ai4me.cfd/bates-numbering.html",
+  "https://ai4me.cfd/bmp-to-pdf.html",
+  "https://ai4me.cfd/bookmark.html",
+  "https://ai4me.cfd/cbz-to-pdf.html",
+  "https://ai4me.cfd/change-permissions.html",
+  "https://ai4me.cfd/combine-single-page.html",
+  "https://ai4me.cfd/compare-pdfs.html",
+  "https://ai4me.cfd/compress-pdf.html",
+  "https://ai4me.cfd/crop-pdf.html",
+  "https://ai4me.cfd/csv-to-pdf.html",
+  "https://ai4me.cfd/delete-pages.html",
+  "https://ai4me.cfd/deskew-pdf.html",
+  "https://ai4me.cfd/digital-sign-pdf.html",
+  "https://ai4me.cfd/divide-pages.html",
+  "https://ai4me.cfd/duplex-collate.html",
+  "https://ai4me.cfd/edit-attachments.html",
+  "https://ai4me.cfd/edit-metadata.html",
+  "https://ai4me.cfd/edit-pdf-text.html",
+  "https://ai4me.cfd/edit-pdf.html",
+  "https://ai4me.cfd/email-to-pdf.html",
+  "https://ai4me.cfd/epub-to-pdf.html",
+  "https://ai4me.cfd/excel-to-pdf.html",
+  "https://ai4me.cfd/extract-attachments.html",
+  "https://ai4me.cfd/extract-images.html",
+  "https://ai4me.cfd/extract-pages.html",
+  "https://ai4me.cfd/extract-tables.html",
+  "https://ai4me.cfd/fb2-to-pdf.html",
+  "https://ai4me.cfd/fix-page-size.html",
+  "https://ai4me.cfd/flatten-pdf.html",
+  "https://ai4me.cfd/font-to-outline.html",
+  "https://ai4me.cfd/form-creator.html",
+  "https://ai4me.cfd/form-filler.html",
+  "https://ai4me.cfd/header-footer.html",
+  "https://ai4me.cfd/heic-to-pdf.html",
+  "https://ai4me.cfd/image-to-pdf.html",
+  "https://ai4me.cfd/invert-colors.html",
+  "https://ai4me.cfd/jpg-to-pdf.html",
+  "https://ai4me.cfd/json-to-pdf.html",
+  "https://ai4me.cfd/linearize-pdf.html",
+  "https://ai4me.cfd/markdown-to-pdf.html",
+  "https://ai4me.cfd/merge-pdf.html",
+  "https://ai4me.cfd/mobi-to-pdf.html",
+  "https://ai4me.cfd/n-up-pdf.html",
+  "https://ai4me.cfd/ocr-pdf.html",
+  "https://ai4me.cfd/odg-to-pdf.html",
+  "https://ai4me.cfd/odp-to-pdf.html",
+  "https://ai4me.cfd/ods-to-pdf.html",
+  "https://ai4me.cfd/odt-to-pdf.html",
+  "https://ai4me.cfd/organize-pdf.html",
+  "https://ai4me.cfd/overlay-pdf.html",
+  "https://ai4me.cfd/page-dimensions.html",
+  "https://ai4me.cfd/page-numbers.html",
+  "https://ai4me.cfd/pages-to-pdf.html",
+  "https://ai4me.cfd/pdf-booklet.html",
+  "https://ai4me.cfd/pdf-layers.html",
+  "https://ai4me.cfd/pdf-multi-tool.html",
+  "https://ai4me.cfd/pdf-to-bmp.html",
+  "https://ai4me.cfd/pdf-to-cbz.html",
+  "https://ai4me.cfd/pdf-to-csv.html",
+  "https://ai4me.cfd/pdf-to-excel.html",
+  "https://ai4me.cfd/pdf-to-greyscale.html",
+  "https://ai4me.cfd/pdf-to-jpg.html",
+  "https://ai4me.cfd/pdf-to-json.html",
+  "https://ai4me.cfd/pdf-to-markdown.html",
+  "https://ai4me.cfd/pdf-to-pdfa.html",
+  "https://ai4me.cfd/pdf-to-png.html",
+  "https://ai4me.cfd/pdf-to-svg.html",
+  "https://ai4me.cfd/pdf-to-text.html",
+  "https://ai4me.cfd/pdf-to-tiff.html",
+  "https://ai4me.cfd/pdf-to-webp.html",
+  "https://ai4me.cfd/pdf-to-word.html",
+  "https://ai4me.cfd/pdf-to-zip.html",
+  "https://ai4me.cfd/pdf-workflow.html",
+  "https://ai4me.cfd/pdf/",
+  "https://ai4me.cfd/pdf/about",
+  "https://ai4me.cfd/pdf/blog",
+  "https://ai4me.cfd/pdf/contact",
+  "https://ai4me.cfd/pdf/faq",
+  "https://ai4me.cfd/pdf/hyper-compress",
+  "https://ai4me.cfd/pdf/kura",
+  "https://ai4me.cfd/pdf/licensing",
+  "https://ai4me.cfd/pdf/pdf-converter",
+  "https://ai4me.cfd/pdf/pdf-merge-split",
+  "https://ai4me.cfd/pdf/pdf-security",
+  "https://ai4me.cfd/pdf/privacy",
+  "https://ai4me.cfd/pdf/terms",
+  "https://ai4me.cfd/pdf/wasm-settings",
+  "https://ai4me.cfd/png-to-pdf.html",
+  "https://ai4me.cfd/posterize-pdf.html",
+  "https://ai4me.cfd/powerpoint-to-pdf.html",
+  "https://ai4me.cfd/prepare-pdf-for-ai.html",
+  "https://ai4me.cfd/protect-pdf.html",
+  "https://ai4me.cfd/psd-to-pdf.html",
+  "https://ai4me.cfd/pub-to-pdf.html",
+  "https://ai4me.cfd/rasterize-pdf.html",
+  "https://ai4me.cfd/remove-annotations.html",
+  "https://ai4me.cfd/remove-blank-pages.html",
+  "https://ai4me.cfd/remove-metadata.html",
+  "https://ai4me.cfd/remove-restrictions.html",
+  "https://ai4me.cfd/repair-pdf.html",
+  "https://ai4me.cfd/reverse-pages.html",
+  "https://ai4me.cfd/rotate-custom.html",
+  "https://ai4me.cfd/rotate-pdf.html",
+  "https://ai4me.cfd/rtf-to-pdf.html",
+  "https://ai4me.cfd/sanitize-pdf.html",
+  "https://ai4me.cfd/scanner-effect.html",
+  "https://ai4me.cfd/sign-pdf.html",
+  "https://ai4me.cfd/split-pdf.html",
+  "https://ai4me.cfd/svg-to-pdf.html",
+  "https://ai4me.cfd/table-of-contents.html",
+  "https://ai4me.cfd/text-color.html",
+  "https://ai4me.cfd/tiff-to-pdf.html",
+  "https://ai4me.cfd/timestamp-pdf.html",
+  "https://ai4me.cfd/txt-to-pdf.html",
+  "https://ai4me.cfd/unlock-pdf.html",
+  "https://ai4me.cfd/validate-signature-pdf.html",
+  "https://ai4me.cfd/view-metadata.html",
+  "https://ai4me.cfd/vsd-to-pdf.html",
+  "https://ai4me.cfd/webp-to-pdf.html",
+  "https://ai4me.cfd/word-to-pdf.html",
+  "https://ai4me.cfd/wpd-to-pdf.html",
+  "https://ai4me.cfd/wps-to-pdf.html",
+  "https://ai4me.cfd/xml-to-pdf.html",
+  "https://ai4me.cfd/xps-to-pdf.html",
+  "https://discord.gg/Bgq3Ay3f2w",
+  "https://github.com/alam00000/bentopdf",
+  "https://github.com/alam00000/bentopdf/",
+  "https://github.com/alam00000/bentopdf/discussions/237",
+  "https://github.com/alam00000/bentopdf/issues/863",
+  "https://github.com/sponsors/alam00000",
+  "https://ko-fi.com/alio01",
+  "https://lemmy.dbzer0.com/comment/22117207",
+  "https://lemmy.world/comment/20985091",
+  "https://lemmy.world/comment/21259080",
+  "https://lemmy.world/post/51264253/25578430",
+  "https://lemmy.zip/comment/23613156",
+  "https://www.bentopdf.com/docs",
+  "https://www.instagram.com/thebentopdf/",
+  "https://www.linkedin.com/company/bentopdf/",
+  "https://www.reddit.com/r/selfhosted/comments/1pxmrfn/bentopdfs_biggest_update_1151/nwc55lc/",
+  "https://www.reddit.com/r/selfhosted/comments/1pxmrfn/bentopdfs_biggest_update_1151/nwd0zj1/",
+  "https://www.trustpilot.com/review/www.bentopdf.com",
+  "https://x.com/BentoPDF"
+ ],
+ "inpdf": [
+  "https://ai4me.cfd/pdf-booklet.html",
+  "https://ai4me.cfd/pdf-layers.html",
+  "https://ai4me.cfd/pdf-multi-tool.html",
+  "https://ai4me.cfd/pdf-to-bmp.html",
+  "https://ai4me.cfd/pdf-to-cbz.html",
+  "https://ai4me.cfd/pdf-to-csv.html",
+  "https://ai4me.cfd/pdf-to-excel.html",
+  "https://ai4me.cfd/pdf-to-greyscale.html",
+  "https://ai4me.cfd/pdf-to-jpg.html",
+  "https://ai4me.cfd/pdf-to-json.html",
+  "https://ai4me.cfd/pdf-to-markdown.html",
+  "https://ai4me.cfd/pdf-to-pdfa.html",
+  "https://ai4me.cfd/pdf-to-png.html",
+  "https://ai4me.cfd/pdf-to-svg.html",
+  "https://ai4me.cfd/pdf-to-text.html",
+  "https://ai4me.cfd/pdf-to-tiff.html",
+  "https://ai4me.cfd/pdf-to-webp.html",
+  "https://ai4me.cfd/pdf-to-word.html",
+  "https://ai4me.cfd/pdf-to-zip.html",
+  "https://ai4me.cfd/pdf-workflow.html",
+  "https://ai4me.cfd/pdf/",
+  "https://ai4me.cfd/pdf/about",
+  "https://ai4me.cfd/pdf/blog",
+  "https://ai4me.cfd/pdf/contact",
+  "https://ai4me.cfd/pdf/faq",
+  "https://ai4me.cfd/pdf/hyper-compress",
+  "https://ai4me.cfd/pdf/kura",
+  "https://ai4me.cfd/pdf/licensing",
+  "https://ai4me.cfd/pdf/pdf-converter",
+  "https://ai4me.cfd/pdf/pdf-merge-split",
+  "https://ai4me.cfd/pdf/pdf-security",
+  "https://ai4me.cfd/pdf/privacy",
+  "https://ai4me.cfd/pdf/terms",
+  "https://ai4me.cfd/pdf/wasm-settings"
+ ],
+ "out": [
+  "https://ai4me.cfd/add-attachments.html",
+  "https://ai4me.cfd/add-blank-page.html",
+  "https://ai4me.cfd/add-page-labels.html",
+  "https://ai4me.cfd/add-stamps.html",
+  "https://ai4me.cfd/add-watermark.html",
+  "https://ai4me.cfd/adjust-colors.html",
+  "https://ai4me.cfd/alternate-merge.html",
+  "https://ai4me.cfd/background-color.html",
+  "https://ai4me.cfd/bates-numbering.html",
+  "https://ai4me.cfd/bmp-to-pdf.html",
+  "https://ai4me.cfd/bookmark.html",
+  "https://ai4me.cfd/cbz-to-pdf.html",
+  "https://ai4me.cfd/change-permissions.html",
+  "https://ai4me.cfd/combine-single-page.html",
+  "https://ai4me.cfd/compare-pdfs.html",
+  "https://ai4me.cfd/compress-pdf.html",
+  "https://ai4me.cfd/crop-pdf.html",
+  "https://ai4me.cfd/csv-to-pdf.html",
+  "https://ai4me.cfd/delete-pages.html",
+  "https://ai4me.cfd/deskew-pdf.html",
+  "https://ai4me.cfd/digital-sign-pdf.html",
+  "https://ai4me.cfd/divide-pages.html",
+  "https://ai4me.cfd/duplex-collate.html",
+  "https://ai4me.cfd/edit-attachments.html",
+  "https://ai4me.cfd/edit-metadata.html",
+  "https://ai4me.cfd/edit-pdf-text.html",
+  "https://ai4me.cfd/edit-pdf.html",
+  "https://ai4me.cfd/email-to-pdf.html",
+  "https://ai4me.cfd/epub-to-pdf.html",
+  "https://ai4me.cfd/excel-to-pdf.html",
+  "https://ai4me.cfd/extract-attachments.html",
+  "https://ai4me.cfd/extract-images.html",
+  "https://ai4me.cfd/extract-pages.html",
+  "https://ai4me.cfd/extract-tables.html",
+  "https://ai4me.cfd/fb2-to-pdf.html",
+  "https://ai4me.cfd/fix-page-size.html",
+  "https://ai4me.cfd/flatten-pdf.html",
+  "https://ai4me.cfd/font-to-outline.html",
+  "https://ai4me.cfd/form-creator.html",
+  "https://ai4me.cfd/form-filler.html",
+  "https://ai4me.cfd/header-footer.html",
+  "https://ai4me.cfd/heic-to-pdf.html",
+  "https://ai4me.cfd/image-to-pdf.html",
+  "https://ai4me.cfd/invert-colors.html",
+  "https://ai4me.cfd/jpg-to-pdf.html",
+  "https://ai4me.cfd/json-to-pdf.html",
+  "https://ai4me.cfd/linearize-pdf.html",
+  "https://ai4me.cfd/markdown-to-pdf.html",
+  "https://ai4me.cfd/merge-pdf.html",
+  "https://ai4me.cfd/mobi-to-pdf.html",
+  "https://ai4me.cfd/n-up-pdf.html",
+  "https://ai4me.cfd/ocr-pdf.html",
+  "https://ai4me.cfd/odg-to-pdf.html",
+  "https://ai4me.cfd/odp-to-pdf.html",
+  "https://ai4me.cfd/ods-to-pdf.html",
+  "https://ai4me.cfd/odt-to-pdf.html",
+  "https://ai4me.cfd/organize-pdf.html",
+  "https://ai4me.cfd/overlay-pdf.html",
+  "https://ai4me.cfd/page-dimensions.html",
+  "https://ai4me.cfd/page-numbers.html",
+  "https://ai4me.cfd/pages-to-pdf.html",
+  "https://ai4me.cfd/png-to-pdf.html",
+  "https://ai4me.cfd/posterize-pdf.html",
+  "https://ai4me.cfd/powerpoint-to-pdf.html",
+  "https://ai4me.cfd/prepare-pdf-for-ai.html",
+  "https://ai4me.cfd/protect-pdf.html",
+  "https://ai4me.cfd/psd-to-pdf.html",
+  "https://ai4me.cfd/pub-to-pdf.html",
+  "https://ai4me.cfd/rasterize-pdf.html",
+  "https://ai4me.cfd/remove-annotations.html",
+  "https://ai4me.cfd/remove-blank-pages.html",
+  "https://ai4me.cfd/remove-metadata.html",
+  "https://ai4me.cfd/remove-restrictions.html",
+  "https://ai4me.cfd/repair-pdf.html",
+  "https://ai4me.cfd/reverse-pages.html",
+  "https://ai4me.cfd/rotate-custom.html",
+  "https://ai4me.cfd/rotate-pdf.html",
+  "https://ai4me.cfd/rtf-to-pdf.html",
+  "https://ai4me.cfd/sanitize-pdf.html",
+  "https://ai4me.cfd/scanner-effect.html",
+  "https://ai4me.cfd/sign-pdf.html",
+  "https://ai4me.cfd/split-pdf.html",
+  "https://ai4me.cfd/svg-to-pdf.html",
+  "https://ai4me.cfd/table-of-contents.html",
+  "https://ai4me.cfd/text-color.html",
+  "https://ai4me.cfd/tiff-to-pdf.html",
+  "https://ai4me.cfd/timestamp-pdf.html",
+  "https://ai4me.cfd/txt-to-pdf.html",
+  "https://ai4me.cfd/unlock-pdf.html",
+  "https://ai4me.cfd/validate-signature-pdf.html",
+  "https://ai4me.cfd/view-metadata.html",
+  "https://ai4me.cfd/vsd-to-pdf.html",
+  "https://ai4me.cfd/webp-to-pdf.html",
+  "https://ai4me.cfd/word-to-pdf.html",
+  "https://ai4me.cfd/wpd-to-pdf.html",
+  "https://ai4me.cfd/wps-to-pdf.html",
+  "https://ai4me.cfd/xml-to-pdf.html",
+  "https://ai4me.cfd/xps-to-pdf.html",
+  "https://discord.gg/Bgq3Ay3f2w",
+  "https://github.com/alam00000/bentopdf",
+  "https://github.com/alam00000/bentopdf/",
+  "https://github.com/alam00000/bentopdf/discussions/237",
+  "https://github.com/alam00000/bentopdf/issues/863",
+  "https://github.com/sponsors/alam00000",
+  "https://ko-fi.com/alio01",
+  "https://lemmy.dbzer0.com/comment/22117207",
+  "https://lemmy.world/comment/20985091",
+  "https://lemmy.world/comment/21259080",
+  "https://lemmy.world/post/51264253/25578430",
+  "https://lemmy.zip/comment/23613156",
+  "https://www.bentopdf.com/docs",
+  "https://www.instagram.com/thebentopdf/",
+  "https://www.linkedin.com/company/bentopdf/",
+  "https://www.reddit.com/r/selfhosted/comments/1pxmrfn/bentopdfs_biggest_update_1151/nwc55lc/",
+  "https://www.reddit.com/r/selfhosted/comments/1pxmrfn/bentopdfs_biggest_update_1151/nwd0zj1/",
+  "https://www.trustpilot.com/review/www.bentopdf.com",
+  "https://x.com/BentoPDF"
+ ],
+ "pagestat": {
+  "https://ai4me.cfd/pdf-booklet.html": 404,
+  "https://ai4me.cfd/pdf-layers.html": 404,
+  "https://ai4me.cfd/pdf-multi-tool.html": 404,
+  "https://ai4me.cfd/pdf-to-bmp.html": 404,
+  "https://ai4me.cfd/pdf-to-cbz.html": 404,
+  "https://ai4me.cfd/pdf-to-csv.html": 404,
+  "https://ai4me.cfd/pdf-to-excel.html": 404,
+  "https://ai4me.cfd/pdf-to-greyscale.html": 404,
+  "https://ai4me.cfd/pdf-to-jpg.html": 404,
+  "https://ai4me.cfd/pdf-to-json.html": 404,
+  "https://ai4me.cfd/pdf-to-markdown.html": 404,
+  "https://ai4me.cfd/pdf-to-pdfa.html": 404,
+  "https://ai4me.cfd/pdf-to-png.html": 404,
+  "https://ai4me.cfd/pdf-to-svg.html": 404,
+  "https://ai4me.cfd/pdf-to-text.html": 404,
+  "https://ai4me.cfd/pdf-to-tiff.html": 404,
+  "https://ai4me.cfd/pdf-to-webp.html": 404,
+  "https://ai4me.cfd/pdf-to-word.html": 404,
+  "https://ai4me.cfd/pdf-to-zip.html": 404,
+  "https://ai4me.cfd/pdf-workflow.html": 404,
+  "https://ai4me.cfd/pdf/": 200,
+  "https://ai4me.cfd/pdf/about": 200,
+  "https://ai4me.cfd/pdf/blog": 200,
+  "https://ai4me.cfd/pdf/contact": 200,
+  "https://ai4me.cfd/pdf/faq": 200,
+  "https://ai4me.cfd/pdf/hyper-compress": 200,
+  "https://ai4me.cfd/pdf/kura": 200,
+  "https://ai4me.cfd/pdf/licensing": 200,
+  "https://ai4me.cfd/pdf/pdf-converter": 200,
+  "https://ai4me.cfd/pdf/pdf-merge-split": 200,
+  "https://ai4me.cfd/pdf/pdf-security": 200,
+  "https://ai4me.cfd/pdf/privacy": 200,
+  "https://ai4me.cfd/pdf/terms": 200,
+  "https://ai4me.cfd/pdf/wasm-settings": 200
+ },
+ "reqs": {
+  "https://ai4me.cfd/pdf/": [
+   200,
+   "document",
+   [
+    "https://ai4me.cfd/pdf/"
+   ],
+   1
+  ],
+  "https://ai4me.cfd/pdf/assets/lucide-DyuiW7YA.css": [
+   200,
+   "stylesheet",
+   [
+    "https://ai4me.cfd/pdf-workflow.html",
+    "https://ai4me.cfd/pdf/",
+    "https://ai4me.cfd/pdf/about"
+   ],
+   14
+  ],
+  "https://ai4me.cfd/pdf/assets/style-sLy6fTTc.css": [
+   200,
+   "stylesheet",
+   [
+    "https://ai4me.cfd/pdf-workflow.html",
+    "https://ai4me.cfd/pdf/",
+    "https://ai4me.cfd/pdf/blog"
+   ],
+   13
+  ],
+  "https://ai4me.cfd/pdf/assets/landing-CUsxamyg.css": [
+   200,
+   "stylesheet",
+   [
+    "https://ai4me.cfd/pdf-workflow.html",
+    "https://ai4me.cfd/pdf/",
+    "https://ai4me.cfd/pdf/blog"
+   ],
+   7
+  ],
+  "https://ai4me.cfd/pdf/assets/main-BWtDN6vv.js": [
+   200,
+   "script",
+   [
+    "https://ai4me.cfd/pdf/"
+   ],
+   1
+  ],
+  "https://ai4me.cfd/pdf/assets/rolldown-runtime-BCiCTKAo.js": [
+   200,
+   "script",
+   [
+    "https://ai4me.cfd/pdf-workflow.html",
+    "https://ai4me.cfd/pdf/",
+    "https://ai4me.cfd/pdf/about"
+   ],
+   14
+  ],
+  "https://ai4me.cfd/pdf/assets/lucide-init-NduOo3CF.js": [
+   200,
+   "script",
+   [
+    "https://ai4me.cfd/pdf-workflow.html",
+    "https://ai4me.cfd/pdf/",
+    "https://ai4me.cfd/pdf/about"
+   ],
+   14
+  ],
+  "https://ai4me.cfd/pdf/assets/__vite-browser-external-BwpP9LFt.js": [
+   200,
+   "script",
+   [
+    "https://ai4me.cfd/pdf-workflow.html",
+    "https://ai4me.cfd/pdf/",
+    "https://ai4me.cfd/pdf/blog"
+   ],
+   13
+  ],
+  "https://ai4me.cfd/pdf/assets/dist-CzjzTGOP.js": [
+   200,
+   "script",
+   [
+    "https://ai4me.cfd/pdf-workflow.html",
+    "https://ai4me.cfd/pdf/",
+    "https://ai4me.cfd/pdf/blog"
+   ],
+   13
+  ],
+  "https://ai4me.cfd/pdf/assets/language-redirect-8af3eeb2e0.js": [
+   200,
+   "script",
+   [
+    "https://ai4me.cfd/pdf-workflow.html",
+    "https://ai4me.cfd/pdf/",
+    "https://ai4me.cfd/pdf/about"
+   ],
+   14
+  ],
+  "https://ai4me.cfd/pdf/assets/mobileMenu-CGb4P9So.js": [
+   200,
+   "script",
+   [
+    "https://ai4me.cfd/pdf-workflow.html",
+    "https://ai4me.cfd/pdf/",
+    "https://ai4me.cfd/pdf/about"
+   ],
+   14
+  ],
+  "https://ai4me.cfd/pdf/assets/dist-DtDNafWJ.js": [
+   200,
+   "script",
+   [
+    "https://ai4me.cfd/pdf-workflow.html",
+    "https://ai4me.cfd/pdf/",
+    "https://ai4me.cfd/pdf/blog"
+   ],
+   13
+  ],
+  "https://ai4me.cfd/pdf/assets/purify.es-B9ve_eFf.js": [
+   200,
+   "script",
+   [
+    "https://ai4me.cfd/pdf-workflow.html",
+    "https://ai4me.cfd/pdf/",
+    "https://ai4me.cfd/pdf/blog"
+   ],
+   13
+  ],
+  "https://ai4me.cfd/pdf/assets/main-D5uLKYCD.js": [
+   200,
+   "script",
+   [
+    "https://ai4me.cfd/pdf-workflow.html",
+    "https://ai4me.cfd/pdf/",
+    "https://ai4me.cfd/pdf/blog"
+   ],
+   13
+  ],
+  "https://ai4me.cfd/pdf/assets/i18n-e60P2XI9.js": [
+   200,
+   "script",
+   [
+    "https://ai4me.cfd/pdf-workflow.html",
+    "https://ai4me.cfd/pdf/",
+    "https://ai4me.cfd/pdf/blog"
+   ],
+   13
+  ],
+  "https://ai4me.cfd/pdf/images/favicon-no-bg.svg": [
+   200,
+   "image",
+   [
+    "https://ai4me.cfd/pdf-workflow.html",
+    "https://ai4me.cfd/pdf/",
+    "https://ai4me.cfd/pdf/about"
+   ],
+   14
+  ],
+  "https://ai4me.cfd/pdf/images/gdpr.svg": [
+   200,
+   "image",
+   [
+    "https://ai4me.cfd/pdf/"
+   ],
+   1
+  ],
+  "https://ai4me.cfd/pdf/assets/dm-sans-latin-700-normal-DvUfVpUG.woff2": [
+   200,
+   "font",
+   [
+    "https://ai4me.cfd/pdf-workflow.html",
+    "https://ai4me.cfd/pdf/",
+    "https://ai4me.cfd/pdf/about"
+   ],
+   14
+  ],
+  "https://ai4me.cfd/pdf/assets/dm-sans-latin-500-normal-B9HHJjqV.woff2": [
+   200,
+   "font",
+   [
+    "https://ai4me.cfd/pdf-workflow.html",
+    "https://ai4me.cfd/pdf/",
+    "https://ai4me.cfd/pdf/about"
+   ],
+   14
+  ],
+  "https://ai4me.cfd/pdf/assets/dm-sans-latin-400-normal-CW0RaeGs.woff2": [
+   200,
+   "font",
+   [
+    "https://ai4me.cfd/pdf-workflow.html",
+    "https://ai4me.cfd/pdf/",
+    "https://ai4me.cfd/pdf/about"
+   ],
+   14
+  ],
+  "https://ai4me.cfd/pdf/assets/dm-sans-latin-600-normal-Aqo67rzb.woff2": [
+   200,
+   "font",
+   [
+    "https://ai4me.cfd/pdf-workflow.html",
+    "https://ai4me.cfd/pdf/",
+    "https://ai4me.cfd/pdf/about"
+   ],
+   14
+  ],
+  "https://ai4me.cfd/pdf/assets/ui-Didfgvz2.js": [
+   200,
+   "script",
+   [
+    "https://ai4me.cfd/pdf-workflow.html",
+    "https://ai4me.cfd/pdf/",
+    "https://ai4me.cfd/pdf/blog"
+   ],
+   13
+  ],
+  "https://ai4me.cfd/pdf/assets/lucide-D1kGcZfe.js": [
+   200,
+   "script",
+   [
+    "https://ai4me.cfd/pdf-workflow.html",
+    "https://ai4me.cfd/pdf/",
+    "https://ai4me.cfd/pdf/about"
+   ],
+   14
+  ],
+  "https://ai4me.cfd/pdf/images/ccpa.svg": [
+   200,
+   "image",
+   [
+    "https://ai4me.cfd/pdf/"
+   ],
+   1
+  ],
+  "https://ai4me.cfd/pdf/images/hipaa.svg": [
+   200,
+   "image",
+   [
+    "https://ai4me.cfd/pdf/"
+   ],
+   1
+  ],
+  "https://ai4me.cfd/pdf/images/favicon.svg": [
+   200,
+   "other",
+   [
+    "https://ai4me.cfd/pdf-workflow.html",
+    "https://ai4me.cfd/pdf/",
+    "https://ai4me.cfd/pdf/about"
+   ],
+   14
+  ],
+  "https://ai4me.cfd/config.json": [
+   404,
+   "fetch",
+   [
+    "https://ai4me.cfd/pdf-workflow.html",
+    "https://ai4me.cfd/pdf/",
+    "https://ai4me.cfd/pdf/about"
+   ],
+   14
+  ],
+  "https://api.github.com/repos/alam00000/bentopdf": [
+   200,
+   "fetch",
+   [
+    "https://ai4me.cfd/pdf-workflow.html",
+    "https://ai4me.cfd/pdf/",
+    "https://ai4me.cfd/pdf/blog"
+   ],
+   13
+  ],
+  "https://ai4me.cfd/pdf/assets/Phosphor-DtdjzkpE.woff2": [
+   200,
+   "font",
+   [
+    "https://ai4me.cfd/pdf-workflow.html",
+    "https://ai4me.cfd/pdf/",
+    "https://ai4me.cfd/pdf/blog"
+   ],
+   13
+  ],
+  "https://ai4me.cfd/pdf-booklet.html": [
+   404,
+   "document",
+   [
+    "https://ai4me.cfd/pdf/"
+   ],
+   1
+  ],
+  "https://ai4me.cfd/wp-content/themes/ai4me-learning-studio/style.css?ver=1.0.0": [
+   200,
+   "stylesheet",
+   [
+    "https://ai4me.cfd/pdf-booklet.html",
+    "https://ai4me.cfd/pdf-layers.html",
+    "https://ai4me.cfd/pdf-multi-tool.html"
+   ],
+   20
+  ],
+  "https://ai4me.cfd/wp-content/themes/ai4me-learning-studio/assets/js/ai4me.js?ver=1.0.0": [
+   200,
+   "script",
+   [
+    "https://ai4me.cfd/pdf-booklet.html",
+    "https://ai4me.cfd/pdf-layers.html",
+    "https://ai4me.cfd/pdf-multi-tool.html"
+   ],
+   20
+  ],
+  "blob:https://ai4me.cfd/886984e7-2dcc-4c92-be1e-5d3a0e9270e6": [
+   200,
+   "script",
+   [
+    "https://ai4me.cfd/pdf/"
+   ],
+   1
+  ],
+  "https://ai4me.cfd/wp-content/uploads/2026/11/Untitled-1-150x150.webp": [
+   200,
+   "other",
+   [
+    "https://ai4me.cfd/pdf-booklet.html",
+    "https://ai4me.cfd/pdf-layers.html",
+    "https://ai4me.cfd/pdf-multi-tool.html"
+   ],
+   20
+  ],
+  "https://ai4me.cfd/pdf-layers.html": [
+   404,
+   "document",
+   [
+    "https://ai4me.cfd/pdf-booklet.html"
+   ],
+   1
+  ],
+  "https://ai4me.cfd/pdf-multi-tool.html": [
+   404,
+   "document",
+   [
+    "https://ai4me.cfd/pdf-layers.html"
+   ],
+   1
+  ],
+  "https://ai4me.cfd/pdf-to-bmp.html": [
+   404,
+   "document",
+   [
+    "https://ai4me.cfd/pdf-multi-tool.html"
+   ],
+   1
+  ],
+  "https://ai4me.cfd/pdf-to-cbz.html": [
+   404,
+   "document",
+   [
+    "https://ai4me.cfd/pdf-to-bmp.html"
+   ],
+   1
+  ],
+  "https://ai4me.cfd/pdf-to-csv.html": [
+   404,
+   "document",
+   [
+    "https://ai4me.cfd/pdf-to-cbz.html"
+   ],
+   1
+  ],
+  "https://ai4me.cfd/pdf-to-excel.html": [
+   404,
+   "document",
+   [
+    "https://ai4me.cfd/pdf-to-csv.html"
+   ],
+   1
+  ],
+  "https://ai4me.cfd/pdf-to-greyscale.html": [
+   404,
+   "document",
+   [
+    "https://ai4me.cfd/pdf-to-excel.html"
+   ],
+   1
+  ],
+  "https://ai4me.cfd/pdf-to-jpg.html": [
+   404,
+   "document",
+   [
+    "https://ai4me.cfd/pdf-to-greyscale.html"
+   ],
+   1
+  ],
+  "https://ai4me.cfd/pdf-to-json.html": [
+   404,
+   "document",
+   [
+    "https://ai4me.cfd/pdf-to-jpg.html"
+   ],
+   1
+  ],
+  "https://ai4me.cfd/pdf-to-markdown.html": [
+   404,
+   "document",
+   [
+    "https://ai4me.cfd/pdf-to-json.html"
+   ],
+   1
+  ],
+  "https://ai4me.cfd/pdf-to-pdfa.html": [
+   404,
+   "document",
+   [
+    "https://ai4me.cfd/pdf-to-markdown.html"
+   ],
+   1
+  ],
+  "https://ai4me.cfd/pdf-to-png.html": [
+   404,
+   "document",
+   [
+    "https://ai4me.cfd/pdf-to-pdfa.html"
+   ],
+   1
+  ],
+  "https://ai4me.cfd/pdf-to-svg.html": [
+   404,
+   "document",
+   [
+    "https://ai4me.cfd/pdf-to-png.html"
+   ],
+   1
+  ],
+  "https://ai4me.cfd/pdf-to-text.html": [
+   404,
+   "document",
+   [
+    "https://ai4me.cfd/pdf-to-svg.html"
+   ],
+   1
+  ],
+  "https://ai4me.cfd/pdf-to-tiff.html": [
+   404,
+   "document",
+   [
+    "https://ai4me.cfd/pdf-to-text.html"
+   ],
+   1
+  ],
+  "https://ai4me.cfd/pdf-to-webp.html": [
+   404,
+   "document",
+   [
+    "https://ai4me.cfd/pdf-to-tiff.html"
+   ],
+   1
+  ],
+  "https://ai4me.cfd/pdf-to-word.html": [
+   404,
+   "document",
+   [
+    "https://ai4me.cfd/pdf-to-webp.html"
+   ],
+   1
+  ],
+  "https://ai4me.cfd/pdf-to-zip.html": [
+   404,
+   "document",
+   [
+    "https://ai4me.cfd/pdf-to-word.html"
+   ],
+   1
+  ],
+  "https://ai4me.cfd/pdf-workflow.html": [
+   404,
+   "document",
+   [
+    "https://ai4me.cfd/pdf-to-zip.html"
+   ],
+   1
+  ],
+  "https://ai4me.cfd/pdf/about": [
+   200,
+   "document",
+   [
+    "https://ai4me.cfd/pdf-workflow.html"
+   ],
+   1
+  ],
+  "https://ai4me.cfd/pdf/assets/landing-C8WvADlf.js": [
+   200,
+   "script",
+   [
+    "https://ai4me.cfd/pdf-workflow.html",
+    "https://ai4me.cfd/pdf/blog",
+    "https://ai4me.cfd/pdf/faq"
+   ],
+   5
+  ],
+  "https://ai4me.cfd/pdf/images/author-alam.jpg": [
+   200,
+   "image",
+   [
+    "https://ai4me.cfd/pdf-workflow.html"
+   ],
+   1
+  ],
+  "https://ai4me.cfd/pdf/blog": [
+   301,
+   "document",
+   [
+    "https://ai4me.cfd/pdf/about"
+   ],
+   1
+  ],
+  "https://ai4me.cfd/pdf/blog/": [
+   200,
+   "document",
+   [
+    "https://ai4me.cfd/pdf/about"
+   ],
+   1
+  ],
+  "https://ai4me.cfd/pdf/contact": [
+   200,
+   "document",
+   [
+    "https://ai4me.cfd/pdf/blog"
+   ],
+   1
+  ],
+  "https://ai4me.cfd/pdf/faq": [
+   200,
+   "document",
+   [
+    "https://ai4me.cfd/pdf/contact"
+   ],
+   1
+  ],
+  "https://ai4me.cfd/pdf/hyper-compress": [
+   200,
+   "document",
+   [
+    "https://ai4me.cfd/pdf/faq"
+   ],
+   1
+  ],
+  "https://ai4me.cfd/pdf/kura": [
+   200,
+   "document",
+   [
+    "https://ai4me.cfd/pdf/hyper-compress"
+   ],
+   1
+  ],
+  "https://ai4me.cfd/pdf/licensing": [
+   200,
+   "document",
+   [
+    "https://ai4me.cfd/pdf/kura"
+   ],
+   1
+  ],
+  "https://ai4me.cfd/pdf/pdf-converter": [
+   200,
+   "document",
+   [
+    "https://ai4me.cfd/pdf/licensing"
+   ],
+   1
+  ],
+  "https://ai4me.cfd/pdf/assets/pdf-converter-DkFvYHBc.js": [
+   200,
+   "script",
+   [
+    "https://ai4me.cfd/pdf/licensing"
+   ],
+   1
+  ],
+  "https://ai4me.cfd/pdf/pdf-merge-split": [
+   200,
+   "document",
+   [
+    "https://ai4me.cfd/pdf/pdf-converter"
+   ],
+   1
+  ],
+  "https://ai4me.cfd/pdf/assets/pdf-merge-split-DkFvYHBc.js": [
+   200,
+   "script",
+   [
+    "https://ai4me.cfd/pdf/pdf-converter"
+   ],
+   1
+  ],
+  "https://ai4me.cfd/pdf/pdf-security": [
+   200,
+   "document",
+   [
+    "https://ai4me.cfd/pdf/pdf-merge-split"
+   ],
+   1
+  ],
+  "https://ai4me.cfd/pdf/assets/pdf-security-DkFvYHBc.js": [
+   200,
+   "script",
+   [
+    "https://ai4me.cfd/pdf/pdf-merge-split"
+   ],
+   1
+  ],
+  "https://ai4me.cfd/pdf/privacy": [
+   200,
+   "document",
+   [
+    "https://ai4me.cfd/pdf/pdf-security"
+   ],
+   1
+  ],
+  "https://ai4me.cfd/pdf/terms": [
+   200,
+   "document",
+   [
+    "https://ai4me.cfd/pdf/privacy"
+   ],
+   1
+  ],
+  "https://ai4me.cfd/pdf/wasm-settings": [
+   200,
+   "document",
+   [
+    "https://ai4me.cfd/pdf/terms"
+   ],
+   1
+  ],
+  "https://ai4me.cfd/pdf/assets/wasm-settings-BW3-kaXz.js": [
+   200,
+   "script",
+   [
+    "https://ai4me.cfd/pdf/terms"
+   ],
+   1
+  ],
+  "https://ai4me.cfd/pdf/assets/simple-mode-footer-C2Bc_JBy.js": [
+   200,
+   "script",
+   [
+    "https://ai4me.cfd/pdf/terms"
+   ],
+   1
+  ],
+  "https://ai4me.cfd/pdf/assets/ghostscript-dynamic-loader-cLXWC0v2.js": [
+   200,
+   "script",
+   [
+    "https://ai4me.cfd/pdf/terms"
+   ],
+   1
+  ],
+  "https://ai4me.cfd/pdf/assets/wasm-provider-B1TxpcNt.js": [
+   200,
+   "script",
+   [
+    "https://ai4me.cfd/pdf/terms"
+   ],
+   1
+  ],
+  "https://ai4me.cfd/pdf/assets/pymupdf-loader-9pQGtdLf.js": [
+   200,
+   "script",
+   [
+    "https://ai4me.cfd/pdf/terms"
+   ],
+   1
+  ]
+ }
+}

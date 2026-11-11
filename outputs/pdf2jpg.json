@@ -1,0 +1,15 @@
+{
+ "tool": "pdf2jpg",
+ "url": "https://ai4me.cfd/pdf/pdf-to-jpg",
+ "console": [
+  "error: Failed to load resource: the server responded with a status of 404 ()"
+ ],
+ "failed": [
+  "404 https://ai4me.cfd/config.json"
+ ],
+ "saved": [
+  "/tmp/hoplite/workspace/outputs/pdf2jpg-0-sample-a_jpgs.zip"
+ ],
+ "body": "",
+ "alert": "Success\n\nPDF converted to JPGs successfully!\n\nOK"
+}

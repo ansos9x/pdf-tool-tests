@@ -1,0 +1,41 @@
+{
+ "home": {
+  "final_url": "https://ai4me.cfd/pdf/",
+  "regs": [],
+  "console": [
+   "error: Failed to load resource: the server responded with a status of 404 ()",
+   "error: A bad HTTP response code (404) was received when fetching the script.",
+   "error: [SW] Service Worker registration failed: TypeError: Failed to register a ServiceWorker for scope ('https://ai4me.cfd/') with script ('https://ai4me.cfd/sw.js'): A bad HTTP response code (404) was received when fetching the script."
+  ],
+  "fails": [
+   "404 https://ai4me.cfd/config.json"
+  ]
+ },
+ "merge": {
+  "final_url": "https://ai4me.cfd/pdf/merge-pdf",
+  "regs": [],
+  "console": [
+   "error: Failed to load resource: the server responded with a status of 404 ()"
+  ],
+  "fails": [
+   "404 https://ai4me.cfd/workers/merge.worker.js",
+   "404 https://ai4me.cfd/config.json"
+  ]
+ },
+ "vi": {
+  "final_url": "https://ai4me.cfd/pdf/vi/",
+  "regs": [],
+  "console": [
+   "error: Failed to load resource: the server responded with a status of 404 ()",
+   "error: A bad HTTP response code (404) was received when fetching the script.",
+   "error: [SW] Service Worker registration failed: TypeError: Failed to register a ServiceWorker for scope ('https://ai4me.cfd/') with script ('https://ai4me.cfd/sw.js'): A bad HTTP response code (404) was received when fetching the script."
+  ],
+  "fails": [
+   "404 https://ai4me.cfd/config.json"
+  ]
+ },
+ "switch": {
+  "/pdf/": "https://ai4me.cfd/vi/pdf/",
+  "/pdf/merge-pdf": "https://ai4me.cfd/vi/pdf/merge-pdf"
+ }
+}

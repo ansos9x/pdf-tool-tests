@@ -1,0 +1,21 @@
+{
+ "tool": "rotate",
+ "url": "https://ai4me.cfd/pdf/rotate-pdf",
+ "console": [
+  "error: Failed to load resource: the server responded with a status of 404 ()",
+  "error: Failed to load resource: the server responded with a status of 404 ()",
+  "error: wasm streaming compile failed: TypeError: Failed to execute 'compile' on 'WebAssembly': HTTP status code is not ok",
+  "error: falling back to ArrayBuffer instantiation",
+  "error: Failed to load resource: the server responded with a status of 404 ()",
+  "error: failed to asynchronously prepare wasm: both async and sync fetching of the wasm failed",
+  "error: Aborted(both async and sync fetching of the wasm failed)",
+  "error: Failed to initialize qpdf-wasm: RuntimeError: Aborted(both async and sync fetching of the wasm failed). Build with -sASSERTIONS for more info.\n    at se (https://ai4me.cfd/pdf/assets/ui-Didfgvz2.js:11:84930)\n    at de (https://ai4me.cfd/pdf/assets/ui"
+ ],
+ "failed": [
+  "404 https://ai4me.cfd/config.json",
+  "404 https://ai4me.cfd/qpdf.wasm",
+  "404 https://ai4me.cfd/qpdf.wasm"
+ ],
+ "saved": [],
+ "error": "Page.click: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator(\"#rotate-all-right\")\n    - locator resolved to <button id=\"rotate-all-right\" class=\"flex items-center gap-2 px-4 py-2 bg-gray-700 hover:bg-gray-600 text-white rounded-lg text-sm border border-gray-600\">\u2026</button>\n  - attempting "
+}

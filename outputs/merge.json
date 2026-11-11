@@ -1,0 +1,16 @@
+{
+ "tool": "merge",
+ "url": "https://ai4me.cfd/pdf/merge-pdf",
+ "console": [
+  "error: Failed to load resource: the server responded with a status of 404 ()"
+ ],
+ "failed": [
+  "404 https://ai4me.cfd/config.json",
+  "404 https://ai4me.cfd/workers/merge.worker.js",
+  "FAILED https://ai4me.cfd/workers/merge.worker.js"
+ ],
+ "saved": [],
+ "note": "no auto download; visible buttons: []",
+ "body": "",
+ "alert": "\n      \n        Alert\n        \n        \n          OK\n        \n      \n    "
+}

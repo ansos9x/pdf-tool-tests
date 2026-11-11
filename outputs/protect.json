@@ -1,0 +1,24 @@
+{
+ "tool": "protect",
+ "url": "https://ai4me.cfd/pdf/protect-pdf",
+ "console": [
+  "error: Failed to load resource: the server responded with a status of 404 ()",
+  "error: Failed to load resource: the server responded with a status of 404 ()",
+  "error: wasm streaming compile failed: TypeError: Failed to execute 'compile' on 'WebAssembly': HTTP status code is not ok",
+  "error: falling back to ArrayBuffer instantiation",
+  "error: Failed to load resource: the server responded with a status of 404 ()",
+  "error: failed to asynchronously prepare wasm: both async and sync fetching of the wasm failed",
+  "error: Aborted(both async and sync fetching of the wasm failed)",
+  "error: Failed to initialize qpdf-wasm: RuntimeError: Aborted(both async and sync fetching of the wasm failed). Build with -sASSERTIONS for more info.\n    at se (https://ai4me.cfd/pdf/assets/ui-Didfgvz2.js:11:84930)\n    at de (https://ai4me.cfd/pdf/assets/ui",
+  "error: Error during PDF encryption: RuntimeError: Aborted(both async and sync fetching of the wasm failed). Build with -sASSERTIONS for more info.\n    at se (https://ai4me.cfd/pdf/assets/ui-Didfgvz2.js:11:84930)\n    at de (https://ai4me.cfd/pdf/assets/ui-Di"
+ ],
+ "failed": [
+  "404 https://ai4me.cfd/config.json",
+  "404 https://ai4me.cfd/qpdf.wasm",
+  "404 https://ai4me.cfd/qpdf.wasm"
+ ],
+ "saved": [],
+ "note": "no auto download; visible buttons: []",
+ "body": "",
+ "alert": "Encryption Failed\n\nAn error occurred: Aborted(both async and sync fetching of the wasm failed). Build with -sASSERTIONS for more info.\n\nOK"
+}

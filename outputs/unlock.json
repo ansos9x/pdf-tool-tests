@@ -1,0 +1,17 @@
+{
+ "tool": "unlock",
+ "url": "https://ai4me.cfd/pdf/unlock-pdf",
+ "console": [
+  "error: Failed to load resource: the server responded with a status of 404 ()",
+  "error: ERROR: decryptPdf: Pdf.PDFError(\"Bad or missing /P entry\")",
+  "error: ERROR: decryptPdfOwner: Pdf.PDFError(\"Bad or missing /P entry\")"
+ ],
+ "failed": [
+  "404 https://ai4me.cfd/config.json"
+ ],
+ "saved": [
+  "/tmp/hoplite/workspace/outputs/unlock-0-sample-a-locked.pdf"
+ ],
+ "body": "",
+ "alert": "Success\n\nPDF decrypted successfully! Your download has started.\n\nOK"
+}

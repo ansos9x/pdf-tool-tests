@@ -1,0 +1,44 @@
+status	type	url	pages_affected	example_page
+404	script	https://ai4me.cfd/assets/array-BifhSqXX.js	1	https://ai4me.cfd/pdf/markdown-to-pdf
+FAILED net::ERR_ABORTED	script	https://ai4me.cfd/assets/channel-CMLs407v.js	1	https://ai4me.cfd/pdf/merge-pdf
+FAILED net::ERR_ABORTED	script	https://ai4me.cfd/assets/chunk-55XCU76K-DxfOkWi5.js	1	https://ai4me.cfd/pdf/merge-pdf
+FAILED net::ERR_ABORTED	script	https://ai4me.cfd/assets/chunk-5VM5RSS4-ZNzvKenW.js	1	https://ai4me.cfd/pdf/merge-pdf
+404	script	https://ai4me.cfd/assets/chunk-7S6XSTFO-BnBYPDZd.js	1	https://ai4me.cfd/pdf/markdown-to-pdf
+404	script	https://ai4me.cfd/assets/chunk-AQDTSKZB-BSP-P6WF.js	1	https://ai4me.cfd/pdf/markdown-to-pdf
+404	script	https://ai4me.cfd/assets/chunk-DSNLSHJZ-Bjz7Kz8G.js	1	https://ai4me.cfd/pdf/markdown-to-pdf
+404	script	https://ai4me.cfd/assets/chunk-DUW6YSOI-Dgx8z5s3.js	1	https://ai4me.cfd/pdf/markdown-to-pdf
+404	script	https://ai4me.cfd/assets/chunk-EJLWFMJV-BHXeqR6K.js	1	https://ai4me.cfd/pdf/markdown-to-pdf
+404	script	https://ai4me.cfd/assets/chunk-HAGFOTED-Fg7vDzc_.js	1	https://ai4me.cfd/pdf/markdown-to-pdf
+404	script	https://ai4me.cfd/assets/chunk-HNE4Q36P--Ck-kkIi.js	1	https://ai4me.cfd/pdf/markdown-to-pdf
+404	script	https://ai4me.cfd/assets/chunk-J5ZVWO5B-oDCd-gWO.js	1	https://ai4me.cfd/pdf/markdown-to-pdf
+404	script	https://ai4me.cfd/assets/chunk-LNGE3PJU-DRjopGY8.js	1	https://ai4me.cfd/pdf/markdown-to-pdf
+FAILED net::ERR_ABORTED	script	https://ai4me.cfd/assets/chunk-NQOKRVIF-BSpND-rL.js	1	https://ai4me.cfd/pdf/merge-pdf
+404	script	https://ai4me.cfd/assets/chunk-OYAV6JZA-CF7Pqa25.js	1	https://ai4me.cfd/pdf/markdown-to-pdf
+404	script	https://ai4me.cfd/assets/chunk-UHW7PFBP-G6nMCw4h.js	1	https://ai4me.cfd/pdf/markdown-to-pdf
+FAILED net::ERR_ABORTED	script	https://ai4me.cfd/assets/chunk-VQ5W62QI-DJqkxerk.js	1	https://ai4me.cfd/pdf/merge-pdf
+404	script	https://ai4me.cfd/assets/chunk-WQQL4CDK-DeO0PlOS.js	1	https://ai4me.cfd/pdf/markdown-to-pdf
+FAILED net::ERR_ABORTED	script	https://ai4me.cfd/assets/chunk-XXDRQBXY-BakWylwG.js	1	https://ai4me.cfd/pdf/merge-pdf
+404	script	https://ai4me.cfd/assets/chunk-Y2CYZVJY-DsF7k-Jl.js	1	https://ai4me.cfd/pdf/markdown-to-pdf
+404	script	https://ai4me.cfd/assets/chunk-YZO67HFG-Di4rrt-f.js	1	https://ai4me.cfd/pdf/markdown-to-pdf
+404	script	https://ai4me.cfd/assets/chunk-ZAUX2LTX-BzCHhrqu.js	1	https://ai4me.cfd/pdf/markdown-to-pdf
+404	script	https://ai4me.cfd/assets/dist-DGs_yUrP.js	1	https://ai4me.cfd/pdf/markdown-to-pdf
+FAILED net::ERR_ABORTED	script	https://ai4me.cfd/assets/flowDiagram-IUGLLWBU-DbPL_92y.js	1	https://ai4me.cfd/pdf/merge-pdf
+404	script	https://ai4me.cfd/assets/katex-B-LInNAB.js	1	https://ai4me.cfd/pdf/markdown-to-pdf
+404	script	https://ai4me.cfd/assets/katex-CU9h8BVj.js	1	https://ai4me.cfd/pdf/markdown-to-pdf
+404	script	https://ai4me.cfd/assets/line-Yvt26tkA.js	1	https://ai4me.cfd/pdf/markdown-to-pdf
+404	script	https://ai4me.cfd/assets/mermaid.core-CFQwT28n.js	1	https://ai4me.cfd/pdf/markdown-to-pdf
+404	script	https://ai4me.cfd/assets/path-fybaL0A-.js	1	https://ai4me.cfd/pdf/markdown-to-pdf
+404	script	https://ai4me.cfd/assets/preload-helper-BLdHbfdN.js	1	https://ai4me.cfd/pdf/markdown-to-pdf
+404	script	https://ai4me.cfd/assets/purify.es-B9ve_eFf.js	1	https://ai4me.cfd/pdf/markdown-to-pdf
+404	script	https://ai4me.cfd/assets/rolldown-runtime-BCiCTKAo.js	1	https://ai4me.cfd/pdf/markdown-to-pdf
+404	script	https://ai4me.cfd/assets/rough.esm-Dy-Kn_BL.js	1	https://ai4me.cfd/pdf/markdown-to-pdf
+404	script	https://ai4me.cfd/assets/src-Bc_iCBZR.js	1	https://ai4me.cfd/pdf/markdown-to-pdf
+404	fetch	https://ai4me.cfd/config.json	119	https://ai4me.cfd/pdf/add-attachments
+FAILED net::ERR_ABORTED	script	https://ai4me.cfd/pdf/assets/flowDiagram-IUGLLWBU-DbPL_92y.js	1	https://ai4me.cfd/pdf/merge-pdf
+404	script	https://ai4me.cfd/workers/add-attachments.worker.js	1	https://ai4me.cfd/pdf/add-attachments
+404	script	https://ai4me.cfd/workers/edit-attachments.worker.js	1	https://ai4me.cfd/pdf/edit-attachments
+404	script	https://ai4me.cfd/workers/extract-attachments.worker.js	1	https://ai4me.cfd/pdf/extract-attachments
+404	script	https://ai4me.cfd/workers/json-to-pdf.worker.js	1	https://ai4me.cfd/pdf/json-to-pdf
+404	script	https://ai4me.cfd/workers/merge.worker.js	1	https://ai4me.cfd/pdf/merge-pdf
+404	script	https://ai4me.cfd/workers/pdf-to-json.worker.js	1	https://ai4me.cfd/pdf/pdf-to-json
+404	script	https://ai4me.cfd/workers/table-of-contents.worker.js	1	https://ai4me.cfd/pdf/table-of-contents
