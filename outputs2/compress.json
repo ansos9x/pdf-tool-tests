@@ -1,0 +1,11 @@
+{
+ "tool": "compress",
+ "url": "https://ai4me.cfd/compress-pdf",
+ "console": [],
+ "failed": [],
+ "saved": [
+  "/tmp/hoplite/workspace/outputs2/compress-0-sample-a.pdf"
+ ],
+ "body": "",
+ "alert": "Compression Complete\n\nFile size reduced from 2.2 KB to 1.3 KB (Saved 41.9%).\n\nOK"
+}

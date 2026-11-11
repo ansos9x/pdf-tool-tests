@@ -1,0 +1,141 @@
+{
+ "home": {
+  "status": 200,
+  "links": 181,
+  "fail": [],
+  "cons": []
+ },
+ "internal_links": 132,
+ "link_status": {
+  "200": 131,
+  "301": 1
+ },
+ "link_bad": {
+  "https://ai4me.cfd/blog": 301
+ },
+ "html_links": [
+  "https://ai4me.cfd/add-attachments.html",
+  "https://ai4me.cfd/add-blank-page.html",
+  "https://ai4me.cfd/add-page-labels.html",
+  "https://ai4me.cfd/add-stamps.html",
+  "https://ai4me.cfd/add-watermark.html",
+  "https://ai4me.cfd/adjust-colors.html",
+  "https://ai4me.cfd/alternate-merge.html",
+  "https://ai4me.cfd/background-color.html",
+  "https://ai4me.cfd/bates-numbering.html",
+  "https://ai4me.cfd/bmp-to-pdf.html"
+ ],
+ "external": [
+  "https://discord.gg/Bgq3Ay3f2w",
+  "https://github.com/alam00000/bentopdf",
+  "https://github.com/alam00000/bentopdf/",
+  "https://github.com/alam00000/bentopdf/discussions/237",
+  "https://github.com/alam00000/bentopdf/discussions/237#discussioncomment-15377363",
+  "https://github.com/alam00000/bentopdf/issues/863",
+  "https://github.com/sponsors/alam00000",
+  "https://ko-fi.com/alio01",
+  "https://lemmy.dbzer0.com/comment/22117207",
+  "https://lemmy.world/comment/20985091"
+ ],
+ "sample_links": [
+  "https://ai4me.cfd/",
+  "https://ai4me.cfd/about",
+  "https://ai4me.cfd/add-attachments.html",
+  "https://ai4me.cfd/add-blank-page.html",
+  "https://ai4me.cfd/add-page-labels.html",
+  "https://ai4me.cfd/add-stamps.html",
+  "https://ai4me.cfd/add-watermark.html",
+  "https://ai4me.cfd/adjust-colors.html"
+ ],
+ "crawl_status": {
+  "200": 132
+ },
+ "crawl_nonok": {},
+ "crawl_fail": {
+  "FAILED https://ai4me.cfd/assets/elk-QONTBCTQ-DiCSwpUk.js": [
+   "https://ai4me.cfd/merge-pdf.html"
+  ],
+  "FAILED https://ai4me.cfd/assets/ghostscript-dynamic-loader-cLXWC0v2.js": [
+   "https://ai4me.cfd/pdf-workflow.html"
+  ]
+ },
+ "crawl_cons": 0,
+ "crawl_cons_sample": [],
+ "merge_cons": [],
+ "merge_fail": [],
+ "sw": {
+  "regs": [],
+  "controller": false
+ },
+ "sw_after_reload_controller": false,
+ "worker_reqs": [
+  [
+   200,
+   "https://ai4me.cfd/workers/merge.worker.js"
+  ],
+  [
+   200,
+   "https://ai4me.cfd/config.json"
+  ],
+  [
+   200,
+   "https://ai4me.cfd/workers/merge.worker.js"
+  ],
+  [
+   200,
+   "https://ai4me.cfd/config.json"
+  ]
+ ],
+ "search_visible_merge": 4,
+ "search_cons": [],
+ "vi": {
+  "status": 200,
+  "lang": "vi",
+  "title": "BentoPDF - Công cụ PDF trực tuyến miễn phí | Bộ công cụ PDF ưu tiên quyền riêng tư",
+  "h1": "Bộ công cụ PDF\nan toàn và riêng tư.",
+  "links": [
+   "https://ai4me.cfd/vi",
+   "https://ai4me.cfd/vi/about",
+   "https://ai4me.cfd/vi/contact",
+   "https://ai4me.cfd/vi/licensing",
+   "https://ai4me.cfd/vi/kura",
+   "https://ai4me.cfd/vi/hyper-compress"
+  ],
+  "cons": [],
+  "fail": [],
+  "link_bad": {},
+  "n_internal": 134
+ },
+ "switch": {
+  "/": {
+   "to": "https://ai4me.cfd/vi/",
+   "lang": "vi",
+   "h1": "Bộ công cụ PDF\nan toàn và riêng tư.",
+   "status": 200
+  },
+  "/merge-pdf": {
+   "to": "https://ai4me.cfd/vi/merge-pdf",
+   "lang": "vi",
+   "h1": "Gộp PDF",
+   "status": 200
+  },
+  "/vi/": {
+   "to": "https://ai4me.cfd/",
+   "lang": "en",
+   "h1": "The PDF Toolkit\nbuilt for privacy.",
+   "status": 200
+  }
+ },
+ "old": {
+  "first_hop": [
+   301,
+   "https://ai4me.cfd/merge-pdf"
+  ],
+  "final": "https://ai4me.cfd/merge-pdf",
+  "status": 200,
+  "title": "Merge PDF Files Free Online - Combine Multiple PDFs | BentoPDF",
+  "fail": [],
+  "cons": [],
+  "has_input": 1
+ }
+}

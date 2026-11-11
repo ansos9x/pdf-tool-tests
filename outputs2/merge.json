@@ -1,0 +1,11 @@
+{
+ "tool": "merge",
+ "url": "https://ai4me.cfd/merge-pdf",
+ "console": [],
+ "failed": [],
+ "saved": [
+  "/tmp/hoplite/workspace/outputs2/merge-0-merged.pdf"
+ ],
+ "body": "",
+ "alert": "Success\n\nPDFs merged successfully!\n\nOK"
+}

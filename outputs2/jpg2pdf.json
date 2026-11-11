@@ -1,0 +1,11 @@
+{
+ "tool": "jpg2pdf",
+ "url": "https://ai4me.cfd/jpg-to-pdf",
+ "console": [],
+ "failed": [],
+ "saved": [
+  "/tmp/hoplite/workspace/outputs2/jpg2pdf-0-from_jpgs.pdf"
+ ],
+ "body": "",
+ "alert": "Success\n\nPDF created successfully!\n\nOK"
+}

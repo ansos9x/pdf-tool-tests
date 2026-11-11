@@ -1,0 +1,11 @@
+{
+ "tool": "pdf2jpg",
+ "url": "https://ai4me.cfd/pdf-to-jpg",
+ "console": [],
+ "failed": [],
+ "saved": [
+  "/tmp/hoplite/workspace/outputs2/pdf2jpg-0-sample-a_jpgs.zip"
+ ],
+ "body": "",
+ "alert": "Success\n\nPDF converted to JPGs successfully!\n\nOK"
+}

@@ -1,0 +1,11 @@
+{
+ "tool": "rotate",
+ "url": "https://ai4me.cfd/rotate-pdf",
+ "console": [],
+ "failed": [],
+ "saved": [
+  "/tmp/hoplite/workspace/outputs2/rotate-0-sample-a.pdf"
+ ],
+ "body": "",
+ "alert": "Success\n\nRotations applied successfully!\n\nOK"
+}

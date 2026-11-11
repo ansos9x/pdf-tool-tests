@@ -1,0 +1,14 @@
+{
+ "tool": "unlock",
+ "url": "https://ai4me.cfd/unlock-pdf",
+ "console": [
+  "error: ERROR: decryptPdf: Pdf.PDFError(\"Bad or missing /P entry\")",
+  "error: ERROR: decryptPdfOwner: Pdf.PDFError(\"Bad or missing /P entry\")"
+ ],
+ "failed": [],
+ "saved": [
+  "/tmp/hoplite/workspace/outputs2/unlock-0-sample-a-locked.pdf"
+ ],
+ "body": "",
+ "alert": "Success\n\nPDF decrypted successfully! Your download has started.\n\nOK"
+}

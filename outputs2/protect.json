@@ -1,0 +1,13 @@
+{
+ "tool": "protect",
+ "url": "https://ai4me.cfd/protect-pdf",
+ "console": [
+  "error: this.program: -accessibility=n is ignored for modern encryption formats"
+ ],
+ "failed": [],
+ "saved": [
+  "/tmp/hoplite/workspace/outputs2/protect-0-sample-a.pdf"
+ ],
+ "body": "",
+ "alert": "Success\n\nPDF encrypted successfully with 256-bit AES!\n\nOK"
+}

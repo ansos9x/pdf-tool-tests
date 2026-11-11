@@ -1,0 +1,78 @@
+{
+ "/": {
+  "regs": [
+   {
+    "scope": "https://ai4me.cfd/",
+    "script": "https://ai4me.cfd/sw.js",
+    "state": "activated"
+   }
+  ],
+  "controller_first": true,
+  "controller_after_reload": true,
+  "logs": [
+   "log: [SW] Registering Service Worker at: /sw.js",
+   "log: [SW] Service Worker registered successfully: https://ai4me.cfd/",
+   "log: [SW] Registering Service Worker at: /sw.js",
+   "log: [SW] Service Worker registered successfully: https://ai4me.cfd/"
+  ],
+  "scripts": [
+   "language-redirect-8af3eeb2e0.js",
+   "main-BWtDN6vv.js"
+  ]
+ },
+ "/vi/": {
+  "regs": [
+   {
+    "scope": "https://ai4me.cfd/",
+    "script": "https://ai4me.cfd/sw.js",
+    "state": "activated"
+   }
+  ],
+  "controller_first": true,
+  "controller_after_reload": true,
+  "logs": [
+   "log: [SW] Registering Service Worker at: /sw.js",
+   "log: [SW] Service Worker registered successfully: https://ai4me.cfd/",
+   "log: [SW] Registering Service Worker at: /sw.js",
+   "log: [SW] Service Worker registered successfully: https://ai4me.cfd/"
+  ],
+  "scripts": [
+   "main-BWtDN6vv.js"
+  ]
+ },
+ "/merge-pdf": {
+  "regs": [],
+  "controller_first": false,
+  "controller_after_reload": false,
+  "logs": [],
+  "scripts": [
+   "language-redirect-8af3eeb2e0.js",
+   "merge-pdf-DqA4bJcc.js"
+  ]
+ },
+ "/compress-pdf": {
+  "regs": [],
+  "controller_first": false,
+  "controller_after_reload": false,
+  "logs": [],
+  "scripts": [
+   "language-redirect-8af3eeb2e0.js",
+   "rolldown-runtime-BCiCTKAo.js",
+   "lucide-D1kGcZfe.js",
+   "lucide-init-NduOo3CF.js",
+   "dist-DtDNafWJ.js",
+   "dist-CzjzTGOP.js",
+   "__vite-browser-external-BwpP9LFt.js",
+   "purify.es-B9ve_eFf.js",
+   "i18n-e60P2XI9.js",
+   "ui-Didfgvz2.js",
+   "main-D5uLKYCD.js",
+   "mobileMenu-CGb4P9So.js",
+   "simple-mode-footer-C2Bc_JBy.js",
+   "deduplicate-filename-B0k7ooLE.js",
+   "preload-helper-BLdHbfdN.js",
+   "compress-YCaKaKca.js",
+   "compress-pdf-page-Bk7VcWJh.js"
+  ]
+ }
+}

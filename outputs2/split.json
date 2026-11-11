@@ -1,0 +1,11 @@
+{
+ "tool": "split",
+ "url": "https://ai4me.cfd/split-pdf",
+ "console": [],
+ "failed": [],
+ "saved": [
+  "/tmp/hoplite/workspace/outputs2/split-0-split-document.pdf"
+ ],
+ "body": "",
+ "alert": "Success\n\nPDF split successfully!\n\nOK"
+}
